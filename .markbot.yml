@@ -1,6 +1,5 @@
 repo: 'button-styles'
 canvasCourse: 'web-dev-1'
-
 inherit:
   - naming-restrict-live
   - git-2
