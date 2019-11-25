@@ -54,21 +54,3 @@ div {
   background-color: #fff;
   color: #000;
 }
-
-.btn-warning {
-  background-color: #f33;
-  color: #fff;
-  border-color: #fff;
-}
-
-.btn-big {
-  font-size: 1.5rem;
-}
-
-.btn-small {
-  font-size: .875rem;
-}
-
-.btn-medium {
-  font-size: 1.125rem;
-}
